@@ -32,7 +32,7 @@ routes are tested insomnia and working in the following videos
 
 [getroutesoneandall.webm](https://user-images.githubusercontent.com/103536550/195744039-4ecf12d3-e174-47d4-9548-ecd686d082ce.webm)
 
-##
+## Post a thought, Post a reaction, Put a reaction and thought.
 
 [deletecreateupdatethoughtcreateupdatereaction.webm](https://user-images.githubusercontent.com/103536550/195744054-39689231-44ce-415b-9691-c8ee8a79d9af.webm)
 
