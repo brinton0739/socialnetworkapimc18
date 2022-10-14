@@ -27,13 +27,17 @@ no usage yet just routes at this point.
 
 
 routes are tested insomnia and working in the following videos
-##
+
+## Get all thoughts, Get single thought. Get all users, Get single user.
+
 [getroutesoneandall.webm](https://user-images.githubusercontent.com/103536550/195744039-4ecf12d3-e174-47d4-9548-ecd686d082ce.webm)
 
 ##
+
 [deletecreateupdatethoughtcreateupdatereaction.webm](https://user-images.githubusercontent.com/103536550/195744054-39689231-44ce-415b-9691-c8ee8a79d9af.webm)
 
 ##
+
 https://user-images.githubusercontent.com/103536550/195745135-15ceb5f6-e5b6-4ac6-8faa-b1e45806f689.mp4
 
 
